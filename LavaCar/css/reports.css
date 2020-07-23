@@ -1,0 +1,54 @@
+﻿body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 13pt;
+    background-color: #FAFAFA;
+}
+
+.lt {
+    font-weight:bold;
+}
+
+.dGeneral {
+    text-align: center;
+}
+
+.dSubG {
+    border-color: gray;
+    border-width: 1px;
+    border-style: dotted;
+    margin: 90px 30px 90px 30px;
+}
+
+.titles {
+    padding: 30px 0px 30px 0px;
+}
+
+.service {
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+}
+
+.serviceLabel {
+    width: 180px;
+}
+
+.eachService {
+    margin: 8px 0 8px 0;
+}
+
+.btnBack {
+    padding: 10px 40px 10px 40px;
+    margin: 30px;
+}
+
+.dLine {
+    border-color: gray;
+    border-width: 1px;
+    border-style: dotted;
+    margin: 15px 0px 15px 0;
+}
+
+.ddl {
+    margin: 10px 0px 10px 0px;
+}

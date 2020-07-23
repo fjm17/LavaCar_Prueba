@@ -1,0 +1,45 @@
+﻿body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 13pt;
+    background-color: #FAFAFA;
+}
+
+.lt {
+    font-weight: bold;
+}
+.service {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.btnRegistry {
+    padding: 10px 40px 10px 40px;
+    margin: 30px;
+}
+
+.form-control {
+    display: inline-block;
+    width: 20%;
+}
+
+.titles {
+    padding: 30px 0px 30px 0px;
+}
+
+.dGeneral {
+    text-align: center;
+}
+
+.dSubG {
+    border-color: gray;
+    border-width: 1px;
+    border-style: dotted;
+    margin: 90px 150px 90px 150px;
+}
+
+.errorM {
+    font-style: italic;
+    color: #FF5050;
+}
